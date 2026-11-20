@@ -1,0 +1,479 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Create project skeleton — three empty files and a test runner stub": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109531183
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109552649
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109616883
+      }
+    ],
+    "2.1 Add CSS custom properties for the light theme (colours, font sizes, spacing) to `style.css`; add a `.theme-dark` override block that redefines only the colour tokens.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109531860
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109622861
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109693578
+      }
+    ],
+    "2.2 Add the IIFE shell to `app.js` and implement the `Storage` module inside it.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109532260
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109628830
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109700354
+      }
+    ],
+    "2.3 Write unit tests for `Storage` in `app.test.js`": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109532716
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109706278
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795110015404
+      }
+    ],
+    "3.1 Add the inline anti-FOUC `<script>` block to `<head>` (before the `<link>` to `style.css`).": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109533040
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795110022700
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795110084988
+      }
+    ],
+    "3.2 Add the `#theme-toggle` button to `index.html` (outside `<main>`, always visible).": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109533406
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795110029218
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795110092631
+      }
+    ],
+    "3.3 Implement the `Theme` module in `app.js`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109533594
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795110098606
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795110149178
+      }
+    ],
+    "3.4 Write property test for theme preference round-trip (Property 14)": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109533859
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795110155123
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795142555460
+      }
+    ],
+    "4. Build the HTML layout skeleton and base CSS Grid": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109534230
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795142562867
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795142631395
+      }
+    ],
+    "5.1 Add Greeting widget markup to `#greeting` in `index.html`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109534436
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795142637651
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795142802164
+      }
+    ],
+    "5.2 Implement the pure helper `getGreetingPhrase(hour)` in `app.js`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109534629
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795142643715
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795142808247
+      }
+    ],
+    "5.3 Write property test for greeting phrase coverage (Property 3)": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109534886
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795142820737
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795142949674
+      }
+    ],
+    "5.4 Implement the pure helpers `formatTime(h, m, s)` and `formatDate(date)` in `app.js`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109535187
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795142826745
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795142955959
+      }
+    ],
+    "5.5 Write property test for time format validity (Property 1)": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109535442
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795142962376
+      }
+    ],
+    "5.6 Write property test for date format validity (Property 2)": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109535743
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795142968299
+      }
+    ],
+    "5.7 Implement `Greeting.init()` and the name save flow in `app.js`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109536088
+      },
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795142974577
+      }
+    ],
+    "5.8 Write property test for custom name save round-trip (Property 4)": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109536277
+      }
+    ],
+    "5.9 Write property test for whitespace-only name rejection (Property 5)": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109536557
+      }
+    ],
+    "6. Checkpoint — Greeting widget working end-to-end": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109536868
+      }
+    ],
+    "7.1 Add Timer widget markup to `#timer` in `index.html`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109537083
+      }
+    ],
+    "7.2 Implement the pure helper `deriveTimerControls({ remaining, running })` in `app.js`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109537303
+      }
+    ],
+    "7.3 Write property test for timer control state consistency (Property 15)": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109537585
+      }
+    ],
+    "7.4 Implement `Timer.init()` and countdown logic in `app.js`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109537936
+      }
+    ],
+    "8. Checkpoint — Timer widget working end-to-end": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109538197
+      }
+    ],
+    "9.1 Add TodoList widget markup to `#todo` in `index.html`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109538517
+      }
+    ],
+    "9.2 Implement the pure helper `generateId()` in `app.js`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109538769
+      }
+    ],
+    "9.3 Implement task validation helpers `validateTaskText(text, existingTasks, excludeId?)` in `app.js`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109539031
+      }
+    ],
+    "9.4 Write property test for valid task addition grows list by 1 (Property 6)": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109539202
+      }
+    ],
+    "9.5 Write property test for invalid task leaves list unchanged (Property 7)": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109539761
+      }
+    ],
+    "9.6 Implement `TodoList.init()`, `renderList()`, and add/complete/delete flows in `app.js`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109540028
+      }
+    ],
+    "9.7 Write property test for task persistence round-trip (Property 8)": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109540294
+      }
+    ],
+    "9.8 Write property test for completion toggle is an involution (Property 9)": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109540551
+      }
+    ],
+    "9.9 Write property test for task deletion removes exactly one (Property 10)": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109540826
+      }
+    ],
+    "9.10 Implement inline edit mode for tasks in `app.js`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109541042
+      }
+    ],
+    "10. Checkpoint — To-Do List widget working end-to-end": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109541549
+      }
+    ],
+    "11.1 Add QuickLinks widget markup to `#quicklinks` in `index.html`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109542367
+      }
+    ],
+    "11.2 Implement link validation helper `validateLink(label, url, existingLinks)` in `app.js`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109542920
+      }
+    ],
+    "11.3 Write property test for valid link grows list by 1 (Property 11)": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109543287
+      }
+    ],
+    "11.4 Write property test for URL validator accepts only http(s) (Property 12)": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109543949
+      }
+    ],
+    "11.5 Implement `QuickLinks.init()`, `renderLinks()`, and add/open/delete flows in `app.js`.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109544207
+      }
+    ],
+    "11.6 Write property test for link persistence preserves insertion order (Property 13)": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109544501
+      }
+    ],
+    "12. Checkpoint — Quick Links widget working end-to-end": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109544956
+      }
+    ],
+    "13.1 Style all four widgets in `style.css` using the CSS custom-property tokens defined in task 2.1.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109545213
+      }
+    ],
+    "13.2 Verify responsive collapse at 600 px and cross-browser rendering.": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109545486
+      }
+    ],
+    "14. Final integration checkpoint — Ensure all tests pass": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795109545767
+      }
+    ],
+    "2. Implement the Storage utility and CSS custom-property foundation": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795110015942
+      }
+    ],
+    "3. Implement FOUC prevention and the Theme module": [
+      {
+        "executionId": "6709ed2f-261d-4c61-ab78-76db0ffb4bc0",
+        "chatSessionId": "sess_7ffe6a09-2a3f-4ced-8537-f2ae0acb9ef7",
+        "timestamp": 1795142556304
+      }
+    ]
+  }
+}
